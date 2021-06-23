@@ -2,7 +2,7 @@
 
 Repositório com jogos feitos no Pygame 
 
-##Para rodar é necessario criar o ambiente virtual antes :
+## Para rodar é necessario criar o ambiente virtual antes :
 
 ### Linux
 ```bash
