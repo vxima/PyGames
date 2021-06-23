@@ -2,8 +2,18 @@
 
 Repositório com jogos feitos no Pygame 
 
-para rodar é necessario criar o ambiente virtual antes :
+##Para rodar é necessario criar o ambiente virtual antes :
 
-*virtualenv env3*
+### Linux
+```bash
+$ virtualenv env3
+```
 
-*source env3/bin/activate*
+```bash
+$ source env3/bin/activate
+```
+
+### Windows
+```bash
+$ python -m venv .venv
+```
